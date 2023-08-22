@@ -1,0 +1,434 @@
+[
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//bleu-de-chanel-eau-de-parfum-spray-3-4fl-oz--packshot-default-107360-9518357086238.jpg",
+        "categories": "Men",
+        "title": "BLEU DE CHANEL",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 7,675 ",
+        "gender": "men",
+        "bestSeller": "501"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//bleu-de-chanel-parfum-spray-3-4fl-oz--packshot-default-107180-9519205548062.jpg",
+        "categories": "Exclusive",
+        "title": "EAU DE PARFUM SPRAY",
+        "subTitle": "PARFUM SPRAY",
+        "Price": "₹ 12,950",
+        "gender": "men",
+        "bestSeller": "770"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//bleu-de-chanel-eau-de-toilette-spray-3-4fl-oz--packshot-default-107460-9518357020702.jpg",
+        "categories": "Men",
+        "title": "BLEU DE CHANEL",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 9,550",
+        "gender": "men",
+        "bestSeller": "180"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.58,h_0.58,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/bleu-de-chanel-all-over-spray-5fl-oz--packshot-default-107590-8837032607774.jpg",
+        "categories": "Men",
+        "title": "BLEU DE CHANEL",
+        "subTitle": "ALL-OVER SPRAY",
+        "Price": "₹ 6,950",
+        "gender": "men",
+        "bestSeller": "800"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//bleu-de-chanel-eau-de-parfum-twist-and-spray-3x0-7fl-oz--packshot-default-107300-8822024011806.jpg",
+        "categories": "Men",
+        "title": "BLEU DE CHANEL",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 9,200",
+        "gender": "men",
+        "bestSeller": "947"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//bleu-de-chanel-parfum-twist-and-spray-3x0-7fl-oz--packshot-default-107120-9529564790814.jpg",
+        "categories": "Exclusive",
+        "title": "BLEU DE CHANEL",
+        "subTitle": "PARFUM TWIST AND SPRAY",
+        "Price": "₹ 11,075",
+        "gender": "men",
+        "bestSeller": "1000"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//allure-homme-sport-eau-de-toilette-spray-3-4fl-oz--packshot-default-123630-9518357053470.jpg",
+        "categories": "Men",
+        "title": "ALLURE HOMME SPORT",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 9,550",
+        "gender": "men",
+        "bestSeller": "1105"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//allure-homme-sport-eau-de-toilette-twist-and-spray-3x0-7fl-oz--packshot-default-123800-8818203033630.jpg",
+        "categories": "Men",
+        "title": "ALLURE HOMME SPORT",
+        "subTitle": "EAU DE TOILETTE FOR TRAVEL",
+        "Price": "₹ 8,025",
+        "gender": "men",
+        "bestSeller": "1202"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/allure-homme-sport-cologne-3-4fl-oz--packshot-default-123320-9519205974046.jpg",
+        "categories": "Men",
+        "title": "ALLURE HOMME SPORT",
+        "subTitle": "COLOGNE SPRAY",
+        "Price": "₹ 9,550",
+        "gender": "men",
+        "bestSeller": "751"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/allure-homme-sport-eau-extreme-eau-de-parfum-spray-3-4fl-oz--packshot-default-123560-9519205122078.jpg",
+        "categories": "Exclusive",
+        "title": "ALLURE HOMME SPORT EXTRÊME",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 10,700",
+        "gender": "men",
+        "bestSeller": "323"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//allure-homme-sport-eau-extreme-eau-de-parfum-twist-and-spray-3x0-7fl-oz--packshot-default-123500-8821767831582.jpg",
+        "categories": "Exclusive",
+        "title": "ALLURE HOMME SPORT EXTRÊME",
+        "subTitle": "EAU DE TOILETTE FOR TRAVEL",
+        "Price": "₹ 9,200",
+        "gender": "men",
+        "bestSeller": "220"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/allure-homme-eau-de-toilette-spray-3-4fl-oz--packshot-default-121460-9518357217310.jpg",
+        "categories": "Men",
+        "title": "ALLURE HOMME",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 9,550",
+        "gender": "men",
+        "bestSeller": "662"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/allure-homme-edition-blanche-eau-de-parfum-spray-3-4fl-oz--packshot-default-127460-9519204204574.jpg",
+        "categories": "Exclusive",
+        "title": "ALLURE HOMME BLANCHE",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 10,700",
+        "gender": "men",
+        "bestSeller": "440"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/platinum-egoiste-eau-de-toilette-spray-3-4fl-oz--packshot-default-124460-9519205744670.jpg",
+        "categories": "Men",
+        "title": "PLATINUM ÉGOÏSTE",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 9,550",
+        "gender": "men",
+        "bestSeller": "2099"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.55,h_0.55,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//pour-monsieur-eau-de-parfum-spray-2-5fl-oz--packshot-default-127451-8824192106526.jpg",
+        "categories": "Exclusive",
+        "title": "POUR MONSIEUR",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 8,025",
+        "gender": "men",
+        "bestSeller": "809"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//antaeus-eau-de-toilette-spray-3-4fl-oz--packshot-default-118460-8824198627358.jpg",
+        "categories": "Men",
+        "title": "ANTAEUS",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 9,550",
+        "gender": "men",
+        "bestSeller": "404"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//n-5-eau-de-parfum-spray-3-4fl-oz--packshot-default-125530-9518357119006.jpg",
+        "categories": "Exclusive",
+        "title": "N°5",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "2626"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//n-5-eau-de-parfum-twist-and-spray-3x0-7fl-oz--packshot-default-125407-8824197152798.jpg",
+        "categories": "Women",
+        "title": "N°5",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 11,250",
+        "gender": "women",
+        "bestSeller": "999"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.55,h_0.55,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//n-5-eau-de-toilette-spray-3-4fl-oz--packshot-default-105467-8833875804190.jpg",
+        "categories": "Women",
+        "title": "N°5",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "220"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//coco-mademoiselle-eau-de-parfum-spray-3-4fl-oz--packshot-default-116520-9518352924702.jpg",
+        "categories": "Exclusive",
+        "title": "COCO MADEMOISELLE",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "660"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/coco-mademoiselle-eau-de-parfum-intense-spray-3-4fl-oz--packshot-default-116660-9519205384222.jpg",
+        "categories": "Women",
+        "title": "COCO MADEMOISELLE",
+        "subTitle": "EAU DE PARFUM INTENSE",
+        "Price": "₹ 13,475",
+        "gender": "women",
+        "bestSeller": "3122"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/coco-mademoiselle-eau-de-parfum-twist-and-spray-3x0-7fl-oz--packshot-default-116400-9529564758046.jpg",
+        "categories": "Women",
+        "title": "COCO MADEMOISELLE",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 11,250",
+        "gender": "women",
+        "bestSeller": "1195"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/coco-mademoiselle-l-eau-privee-eau-pour-la-nuit-spray-3-4fl-oz--packshot-default-116260-9519205711902.jpg",
+        "categories": "Women",
+        "title": "COCO MADEMOISELLE",
+        "subTitle": "L'EAU PRIVÉE - NIGHT",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "420"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.55,h_0.55,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/coco-mademoiselle-eau-de-toilette-spray-3-4fl-oz--packshot-default-116460-8817969004574.jpg",
+        "categories": "Women",
+        "title": "COCO MADEMOISELLE",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "250"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//gabrielle-chanel-essence-eau-de-parfum-spray-3-4fl-oz--packshot-default-120630-9518175879198.jpg",
+        "categories": "Exclusive",
+        "title": "GABRIELLE CHANEL",
+        "subTitle": "ESSENCE EAU DE PARFUM",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "261"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//gabrielle-chanel-essence-eau-de-parfum-spray-3-4fl-oz--packshot-default-120630-9518175879198.jpg",
+        "categories": "Women",
+        "title": "GABRIELLE CHANEL",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "644"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/gabrielle-chanel-eau-de-parfum-twist-and-spray-3x0-7fl-oz--packshot-default-120400-8820835516446.jpg",
+        "categories": "Women",
+        "title": "GABRIELLE CHANEL",
+        "subTitle": "EAU DE PARFUM TWIST",
+        "Price": "₹ 11,250",
+        "gender": "women",
+        "bestSeller": "280"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/chance-eau-de-parfum-spray-3-4fl-oz--packshot-default-126520-9519204401182.jpg",
+        "categories": "Exclusive",
+        "title": "CHANCE",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "720"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/chance-eau-de-toilette-spray-3-4fl-oz--packshot-default-126460-9519206006814.jpg",
+        "categories": "Women",
+        "title": "CHANCE",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "399"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/chance-eau-de-toilette-twist-and-spray-3x0-7fl-oz--packshot-default-126100-9529389154334.jpg",
+        "categories": "Women",
+        "title": "CHANCE",
+        "subTitle": "EAU DE TOILETTE TWIST",
+        "Price": "₹ 9,550",
+        "gender": "women",
+        "bestSeller": "310"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//chance-eau-tendre-eau-de-parfum-spray-3-4fl-oz--packshot-default-126260-9518357184542.jpg",
+        "categories": "Exclusive",
+        "title": "CHANCE EAU TENDRE",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "3999"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/chance-eau-tendre-eau-de-toilette-spray-3-4fl-oz--packshot-default-126320-9519205580830.jpg",
+        "categories": "Women",
+        "title": "CHANCE EAU TENDRE",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "499"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/chance-eau-tendre-eau-de-toilette-twist-and-spray-3x0-7fl-oz--packshot-default-126300-9529389121566.jpg",
+        "categories": "Women",
+        "title": "CHANCE EAU TENDRE",
+        "subTitle": "EAU DE TOILETTE TWIST ",
+        "Price": "₹ 9,550",
+        "gender": "women",
+        "bestSeller": "330"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/chance-eau-fraiche-eau-de-toilette-spray-3-4fl-oz--packshot-default-136420-9519204499486.jpg",
+        "categories": "Women",
+        "title": "CHANCE EAU FRAÎCHE",
+        "subTitle": "EAU DE TOILETTE SPRAY ",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "470"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/chance-eau-fraiche-eau-de-toilette-twist-and-spray-3x0-7fl-oz--packshot-default-136100-9529389088798.jpg",
+        "categories": "Women",
+        "title": "CHANCE EAU FRAÎCHE",
+        "subTitle": "EAU DE TOILETTE TWIST",
+        "Price": "₹ 9,550",
+        "gender": "women",
+        "bestSeller": "355"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/chance-eau-vive-eau-de-toilette-spray-3-4fl-oz--packshot-default-126560-9519204597790.jpg",
+        "categories": "Women",
+        "title": "CHANCE EAU VIVE",
+        "subTitle": "EAU DE TOILETTE",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "360"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/coco-eau-de-parfum-spray-3-4fl-oz--packshot-default-113530-9519205613598.jpg",
+        "categories": "Exclusive",
+        "title": "COCO",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "627"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//coco-eau-de-toilette-spray-3-4fl-oz--packshot-default-123460-8841520906270.jpg",
+        "categories": "Women",
+        "title": "COCO",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "380"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/coco-noir-eau-de-parfum-spray-1-7fl-oz--packshot-default-113650-9519242051614.jpg",
+        "categories": "Women",
+        "title": "COCO NOIR",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 9,375",
+        "gender": "women",
+        "bestSeller": "390"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/allure-sensuelle-eau-de-parfum-spray-1-7fl-oz--packshot-default-129720-8824191090718.jpg",
+        "categories": "Women",
+        "title": "ALLURE SENSUELLE",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 9,375",
+        "gender": "women",
+        "bestSeller": "458"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/allure-eau-de-parfum-spray-3-4fl-oz--packshot-default-112530-8824193548318.jpg",
+        "categories": "Exclusive",
+        "title": "ALLURE",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "410"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/allure-eau-de-toilette-spray-3-4fl-oz--packshot-default-112460-8824191778846.jpg",
+        "categories": "Women",
+        "title": "ALLURE",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "974"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/n-19-eau-de-parfum-spray-3-4fl-oz--packshot-default-119530-9519205285918.jpg",
+        "categories": "Women",
+        "title": "N°19",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "375"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/n-19-eau-de-toilette-spray-3-4fl-oz--packshot-default-119470-8833880457246.jpg",
+        "categories": "Exclusive",
+        "title": "N°19",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 11,150",
+        "gender": "women",
+        "bestSeller": "440"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/n-19-poudre-eau-de-parfum-spray-3-4fl-oz--packshot-default-119490-9519205777438.jpg",
+        "categories": "Women",
+        "title": "N°19 POUDRÉ",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 13,125",
+        "gender": "women",
+        "bestSeller": "799"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.55,h_0.55,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/cristalle-eau-de-parfum-spray-3-4fl-oz--packshot-default-135460-8842805870622.jpg",
+        "categories": "Exclusive",
+        "title": "CRISTALLE",
+        "subTitle": "EAU DE PARFUM SPRAY",
+        "Price": "₹ 12,050",
+        "gender": "women",
+        "bestSeller": "460"
+    },
+    {
+        "img": "https://www.chanel.com/images/t_one//w_0.55,h_0.55,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620//cristalle-eau-de-toilette-spray-3-4fl-oz--packshot-default-115460-8824191647774.jpg",
+        "categories": "Women",
+        "title": "CRISTALLE",
+        "subTitle": "EAU DE TOILETTE SPRAY",
+        "Price": "₹ 10,275",
+        "gender": "women",
+        "bestSeller": "584"
+    },
+    {
+        "img": "https://www.chanel.com/images//t_one//w_0.55,h_0.55,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/cristalle-eau-verte-eau-de-toilette-concentree-spray-3-4fl-oz--packshot-default-111260-8824208162846.jpg",
+        "categories": "Women",
+        "title": "CRISTALLE EAU VERTE",
+        "subTitle": "EAU DE TOILETTE CONCENTRÉE",
+        "Price": "₹ 12,050",
+        "gender": "women",
+        "bestSeller": "480"
+    }
+]

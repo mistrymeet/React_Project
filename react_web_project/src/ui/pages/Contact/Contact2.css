@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.contact2,
+.contact-flex1 {
+    font-family: 'Cormorant Garamond', serif !important;
+}
+
+.flexible {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.popince {
+    font-family: 'Poppins';
+}
+
+.contact2 {
+    background-image: url(../../Images/34249.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.form-control:focus {
+    outline: 0;
+    box-shadow: none !important;
+}
+
+.form-control {
+    border-radius: 0% !important;
+    border-color: black !important;
+}

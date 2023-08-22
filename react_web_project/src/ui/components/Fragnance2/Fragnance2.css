@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.font {
+  font-family: 'Cormorant Garamond', serif !important;
+}
+
+.fragrance2 .img1 {
+  background: url(../../Images/Coco.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 75%;
+  filter: drop-shadow(-5px -5px 5px black);
+  height: 650px;
+}
+
+.fragrance2 .img2 {
+  background-image: url(../../Images/Chance1.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+  width: 250px;
+  position: absolute;
+  top: 130px;
+  right: 0px;
+  filter: drop-shadow(1px 1px 5px black);
+}
+
+.fragrance2 .rel {
+  position: relative;
+}
+
+.button {
+  --bg: #000;
+  --hover-bg: #E58326;
+  --hover-text: #000;
+  color: #fff;
+  border: 1px solid var(--bg);
+  border-radius: 4px;
+  padding: 0.8em 2em;
+  background: var(--bg);
+  transition: 0.2s;
+}
+
+.button:hover {
+  color: var(--hover-text);
+  transform: translate(-0.25rem, -0.25rem);
+  background: var(--hover-bg);
+  box-shadow: 0.25rem 0.25rem var(--bg);
+}
+
+.button:active {
+  transform: translate(0);
+  box-shadow: none;
+}
+
+@media (max-width:576px) {
+  .fragrance2 .img2 {
+    top: 345px;
+    right: 14px;
+    width: 150px;
+    height: 250px;
+  }
+
+  .fragrance2 .img1 {
+    justify-content: center;
+    width: 300px;
+    height: 500px;
+  }
+
+  .frag {
+    gap: 30px;
+    padding-bottom: 40px;
+  }
+
+  .font {
+    padding: 0px 20px;
+    text-align: center;
+  }
+}
+
+@media (min-width:576px) {
+
+  .fragrance2 .rightpara {
+    padding-right: 0;
+    padding: 20px;
+  }
+
+  .fragrance2 .img1 {
+    justify-content: center;
+    width: 400px;
+  }
+
+  .frag {
+    gap: 30px;
+  }
+
+  .font {
+    text-align: center !important;
+  }
+
+  .button {
+    margin: auto;
+  }
+}
+
+@media (min-width:768px) {
+  .frag {
+    flex-direction: column;
+  }
+
+  .fragrance2 .img2 {
+    height: 400px;
+    width: 250px;
+    position: absolute;
+    top: 130px;
+    right: -84px;
+  }
+
+  .fragrance2 .img1 {
+    justify-content: right;
+    width: 500px;
+  }
+
+}
+
+@media (min-width:992px) {
+
+  .fragrance2 .rightpara {
+    padding: 0px 80px 0px 0px;
+  }
+
+  .frag {
+    flex-direction: row;
+    gap: 0;
+  }
+
+  .fragrance2 .img2 {
+    height: 400px;
+    width: 250px;
+    position: absolute;
+    top: 130px;
+    right: -60px;
+  }
+
+  .font {
+    text-align: left !important;
+  }
+
+  .button {
+    margin: inherit;
+  }
+}
+
+@media (min-width:1400px) {
+
+  .fragrance2 .img2 {
+    right: 60px;
+  }
+}
