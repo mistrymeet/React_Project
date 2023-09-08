@@ -3,22 +3,19 @@ import HeaderCom from '../../components/HeaderCom/HeaderCom'
 import FooterCom from '../../components/FooterCom/FooterCom'
 import { Container, FormGroup } from 'react-bootstrap'
 import '../Contact/Contact.css'
-import { Col, Layout, Row } from 'antd'
+import { Col, Layout, Row, message } from 'antd'
 import { BiLogoFacebookCircle, BiLogoInstagram, BiLogoPinterest, BiLogoTwitter, BiLogoYoutube } from "react-icons/bi";
 import { useForm } from "react-hook-form";
 import { Label } from 'reactstrap'
 import Iframe from 'react-iframe'
 
 function Contact() {
-    const { register, handleSubmit, watch, formState: { errors } } = useForm();
-    const onSubmit = (data) => {
-        if (data) {
-            data = 0
-        } else {
-            null
+    const { register, handleSubmit, formState: { errors } } = useForm();
+    const onSubmit = (register) => {
+        if (register) {
+            alert('registration successfully done!!!')
         }
     }
-    console.log(watch("example"));
     const { Content } = Layout;
     return (
         <>
@@ -122,7 +119,7 @@ function Contact() {
                                     <Label className='popince text-base font-semibold block pt-3 mb-0'>
                                         Email
                                     </Label>
-                                    <input {...register("lastName", { required: true })}
+                                    <input {...register("email", { required: true })}
                                         className='p-3 block w-100 border-2 border-black'
                                         placeholder='Enter Email' type='email' />
                                     {errors.lastName && <span>This field is required</span>}
@@ -132,9 +129,11 @@ function Contact() {
                                     <Label className='popince text-base font-semibold block pt-3 mb-0'>
                                         Message
                                     </Label>
-                                    <input {...register("message", { required: true })}
+                                    <textarea {...register("message", { required: true })}
                                         className='p-3 block w-100 h-32 border-2 border-black '
-                                        type='text' />
+                                        type='text'
+                                        rows={6}
+                                        cols={5} />
                                     {errors.message && <span>This field is required</span>}
                                 </FormGroup>
 

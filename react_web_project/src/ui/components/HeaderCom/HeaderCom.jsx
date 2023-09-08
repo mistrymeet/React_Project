@@ -5,12 +5,17 @@ import Navbar from 'react-bootstrap/Navbar';
 import { BiSolidCart, BiSolidUser, BiSearch } from "react-icons/bi";
 import { useContext, useEffect } from 'react';
 import Product from '../../utils/Product.json'
-import { ContextTest } from '../../../App';
+import { ContextTest } from '../../pages/Router/AniRouter';
 import '../HeaderCom/HeaderCom.css'
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
+import { AuthContext } from '../../pages/Auth/Auth';
+
 
 function HeaderCom() {
     let SearchData = useContext(ContextTest)
+    let auth = AuthContext()
+
+
     useEffect(() => {
         let filterData = Product?.filter?.((e) => {
             return e?.title?.toLowerCase?.()?.includes?.(SearchData.textsearch?.toLowerCase?.())
@@ -19,7 +24,7 @@ function HeaderCom() {
     }, [SearchData.textsearch])
 
     return (
-        <Navbar expand="lg" className="bg-white uppercase">
+        <Navbar expand="lg" className="bg-white uppercase header">
             <Container className='py-2 px-0 cont'>
                 <NavbarBrand className='p-0'>
                     <Nav.Link
@@ -55,26 +60,27 @@ function HeaderCom() {
                             flex: '2.2',
                             fontSize: '16px',
                             alignItems: 'center',
-                            justifyContent: 'right'
+                            justifyContent: 'right',
+                            gap: '15px',
                         }}>
-                        <Link to='/Products' className='no-underline text-black'>
-                            <Nav.Link href="#link">Products</Nav.Link>
-                        </Link>
-                        <Link to='/Exclusive' className='no-underline text-black'>
-                            <Nav.Link href="#link">exclusive</Nav.Link>
-                        </Link>
-                        <Link to='/Women' className='no-underline text-black'>
-                            <Nav.Link href="#home">women</Nav.Link>
-                        </Link>
-                        <Link to='/Men' className='no-underline text-black'>
-                            <Nav.Link href="#home">men</Nav.Link>
-                        </Link>
-                        <Link to='/Exclusive' className='no-underline text-black'>
-                            <Nav.Link href="#link">about</Nav.Link>
-                        </Link>
-                        <Link to='/Contact' className='text-black no-underline'>
-                            <Nav.Link href="#link">contact</Nav.Link>
-                        </Link>
+                        <NavLink to='/products' className='no-underline '>
+                            Products
+                        </NavLink>
+                        <NavLink to='/exclusive' className='no-underline '>
+                            exclusive
+                        </NavLink>
+                        <NavLink to='/women' className='no-underline '>
+                            women
+                        </NavLink>
+                        <NavLink to='/men' className='no-underline '>
+                            men
+                        </NavLink>
+                        <NavLink to='/about' className='no-underline '>
+                            about
+                        </NavLink>
+                        <NavLink to='/contact' className=' no-underline'>
+                            contact
+                        </NavLink>
                     </Nav>
 
                     <Nav
@@ -84,21 +90,28 @@ function HeaderCom() {
                             justifyContent: 'right',
                             alignItems: 'center',
                             fontWeight: '500',
-                            fontSize: '16px'
+                            fontSize: '16px',
+                            gap: '10px'
                         }}>
                         <input type="text" className='outline-none border-3 border-black rounded-md ps-2 p-1 drop-shadow-lg' placeholder='Search Here'
                             onChange={(e) => SearchData.SetTextSearch(e.target.value)}
                         />
-                        <Nav.Link href="#link"
+                        <Link href="#link"
                             style={{
                                 fontSize: '25px',
                             }}>
                             <BiSearch />
-                        </Nav.Link>
-                        <Nav.Link href="#link"
-                            style={{ fontSize: '25px' }}><BiSolidCart /></Nav.Link>
-                        <Nav.Link href="#link"
-                            style={{ fontSize: '25px' }}><BiSolidUser /></Nav.Link>
+                        </Link>
+                        <NavLink to={'/cart'}
+                            style={{ fontSize: '25px' }}><BiSolidCart /></NavLink>
+                        {
+                            auth.user ?
+                                <NavLink to={'/profile'}
+                                    style={{ fontSize: '25px' }}><BiSolidUser /></NavLink> :
+                                <NavLink to={'/login'} className='font-semibold no-underline text-base'>
+                                    Sign In
+                                </NavLink>
+                        }
                     </Nav>
                 </Navbar.Collapse>
             </Container>

@@ -28,3 +28,14 @@
     border-radius: 0% !important;
     border-color: black !important;
 }
+
+@media (max-width:576px) {
+    .contact-flex {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .iframe {
+        padding: 0;
+    }
+}

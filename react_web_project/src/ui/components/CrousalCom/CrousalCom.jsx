@@ -11,7 +11,7 @@ function CrousalCom() {
                         <p className='font-medium text-lg sm:text-xs'>Moonsoon offer is live</p>
                         <p className='text-7xl pb-4 content'>Your exclusive sitewide offer awaits</p>
                         <Link to='/SignUp'>
-                            <button class="button uppercase font-semibold">
+                            <button class="button uppercase font-semibold me-2">
                                 Signup now
                             </button>
                         </Link>

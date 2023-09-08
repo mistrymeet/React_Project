@@ -3,3 +3,15 @@
         margin: 0px 10px !important;
     }
 }
+
+.active {
+    color: red !important;
+}
+
+a {
+    color: black !important;
+}
+
+.header {
+    box-shadow: 0px 1px 5px lightgray;
+}

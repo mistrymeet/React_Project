@@ -1,0 +1,31 @@
+.profile-img .pi {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-image: url(../../Images/testprofile.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.grid {
+    background-image: none;
+}
+
+.name .input {
+    border-radius: 5px !important;
+    background-color: transparent;
+    border-color: lightslategrey !important;
+}
+
+.profile-info {
+    background-image: url(../../Images/16347.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.profile {
+    background-image: url(../../Images/15652.png);
+    background-position: center;
+    background-size: cover;
+    border: 1px solid black;
+}

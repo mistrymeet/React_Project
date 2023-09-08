@@ -1,0 +1,17 @@
+.form-control:focus {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    border-color: black !important;
+    outline: 0;
+    box-shadow: none !important;
+}
+
+.active {
+    color: red !important;
+    text-decoration: none;
+}
+
+a {
+    color: black !important;
+    text-decoration: none !important;
+}

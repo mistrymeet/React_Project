@@ -1,7 +1,7 @@
 import React, { useContext, useEffect } from 'react'
 import '../BestSellerCom/Bestseller.css'
 import Product from '../../utils/Product.json'
-import { ContextTest } from '../../../App'
+import { ContextTest } from '../../pages/Router/AniRouter'
 import CardCom from '../CardCom/CardCom'
 
 function BestSellerCom() {

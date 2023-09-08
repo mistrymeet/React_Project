@@ -1,0 +1,80 @@
+.denim {
+    background-image: url(../../../Images/denim.jpg);
+    background-position: top;
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+    margin-bottom: 80px;
+    border-radius: 10px;
+    background-attachment: fixed;
+}
+
+.denim-btn {
+    transition: 0.3s all linear;
+}
+
+.denim-btn:hover {
+    color: dodgerblue;
+}
+
+.d-btn {
+    transition: 0.3s all linear;
+}
+
+.denim-btn:hover .d-btn {
+    transform: translateX(10px);
+}
+
+@media (max-width:576px) {
+    .denim .para1 {
+        font-size: 15px;
+    }
+
+    .denim .main {
+        font-size: 40px;
+    }
+
+    .denim .para2 {
+        font-size: 15px;
+    }
+
+    .denim .demo {
+        display: none;
+    }
+}
+
+@media (min-width:576px) {
+    .denim .para1 {
+        font-size: 15px;
+    }
+
+    .denim .main {
+        font-size: 40px;
+    }
+
+    .denim .para2 {
+        font-size: 15px;
+    }
+
+    .denim .demo {
+        display: none;
+    }
+}
+
+@media (min-width:768px) {
+    .denim .para1 {
+        font-size: 18px;
+    }
+
+    .denim .main {
+        font-size: 96px;
+    }
+
+    .denim .para2 {
+        font-size: 18px;
+    }
+
+    .denim .demo {
+        display: flex;
+    }
+}

@@ -13,6 +13,7 @@ import BestSellerCom from '../../components/BestSellerCom/BestSellerCom';
 import DiscoverCom from '../../components/DiscoverCom/DiscoverCom';
 import ModelCom from '../../components/ModelCom/ModelCom';
 import CategoryCom from '../../components/CategoryCom/CategoryCom';
+import { motion } from "framer-motion"
 
 export const ContextSearch = createContext()
 
@@ -20,19 +21,25 @@ const { Content } = Layout;
 const HomeCom = () => {
     return (
         <>
-            <Layout className="layout">
-                <HeaderCom />
-                <Content>
-                    <CrousalCom />
-                    <FragranceCom1 />
-                    <FragranceCom2 />
-                    <BestSellerCom />
-                    <DiscoverCom />
-                    <ModelCom />
-                    <CategoryCom />
-                </Content>
-                <FooterCom />
-            </Layout>
+            <motion.div
+                initial={{ opacity: 0, transition: { duration: 0.6 } }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0, transition: { duration: 0.6 } }}
+            >
+                <Layout className="layout">
+                    <HeaderCom />
+                    <Content>
+                        <CrousalCom />
+                        <FragranceCom1 />
+                        <FragranceCom2 />
+                        <BestSellerCom />
+                        <DiscoverCom />
+                        <ModelCom />
+                        <CategoryCom />
+                    </Content>
+                    <FooterCom />
+                </Layout>
+            </motion.div>
         </>
     );
 };

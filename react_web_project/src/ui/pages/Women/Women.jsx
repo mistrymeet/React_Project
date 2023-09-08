@@ -4,6 +4,9 @@ import CardCom from '../../components/CardCom/CardCom'
 import HeaderCom from '../../components/HeaderCom/HeaderCom'
 import FooterCom from '../../components/FooterCom/FooterCom'
 import BestSellerCom from '../../components/BestSellerCom/BestSellerCom'
+import { motion } from "framer-motion"
+import './Women.css'
+
 
 function Women({ textsearch }) {
     let [productdata, SetProductData] = useState([])
@@ -18,7 +21,12 @@ function Women({ textsearch }) {
 
 
     return (
-        <div >
+        <motion.div
+            initial={{ opacity: 0, transition: { duration: 0.6 } }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0, transition: { duration: 0.6 } }}
+            className='women'
+        >
             <HeaderCom />
             <BestSellerCom />
             <div className="site-layout-content flex flex-wrap gap-3 justify-center items-center p-10">
@@ -29,7 +37,7 @@ function Women({ textsearch }) {
                 }
             </div>
             <FooterCom />
-        </div>
+        </motion.div>
     )
 }
 

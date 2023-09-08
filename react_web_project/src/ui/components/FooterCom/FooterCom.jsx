@@ -63,37 +63,37 @@ function FooterCom() {
                             <p className='uppercase text-base font-medium pb-3 '>useful links</p>
                             <ol className='p-0 font-normal'>
                                 <li>
-                                    <Link to='/Products'
+                                    <Link to='/products'
                                         className='no-underline text-white'>
                                         Products
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to='/Exclusive'
+                                    <Link to='/exclusive'
                                         className='no-underline text-white' >
                                         Exclusive
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to='/Women'
+                                    <Link to='/women'
                                         className='text-white no-underline'>
                                         Women
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to='/Men'
+                                    <Link to='/men'
                                         className='text-white no-underline'>
                                         Men
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to='/About'
+                                    <Link to='/about'
                                         className='text-white no-underline'>
                                         About
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to='/Contact'
+                                    <Link to='/contact'
                                         className='text-white no-underline'>
                                         Contact
                                     </Link>

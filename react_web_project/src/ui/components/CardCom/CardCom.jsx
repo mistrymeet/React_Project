@@ -2,12 +2,13 @@ import { Button, Card } from 'antd'
 import React from 'react'
 import { CardBody, CardSubtitle, CardText, CardTitle } from 'reactstrap'
 import '../CardCom/Card.css'
+import { ShoppingCart } from 'lucide-react'
 
 function CardCom({ data }) {
     return (
         <>
             <Card
-                className='cards'
+                className='cards drop-shadow-md'
                 style={{
                     width: '18rem',
                     borderColor: 'black',
@@ -41,8 +42,9 @@ function CardCom({ data }) {
                     <CardTitle tag="h5" className='text-sm font-bold pb-3 text-center'>
                         {data?.Price}
                     </CardTitle>
-                    <div className='text-center'>
-                        <button class="btnn">Buy Now</button>
+                    <div className='text-center flex items-center gap-4'>
+                        <button className="btnn">Buy Now</button>
+                        <button className='btn'><ShoppingCart /></button>
                     </div>
                     <div className='position'></div>
                 </CardBody>
